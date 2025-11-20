@@ -9,7 +9,6 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 
-
 def encrpy(params, secret_key="5Q0NvQxD0zdQ5RLQy5xs"):
     # salt = "stoqrx01"
     # current_timestamp = 1755250994
