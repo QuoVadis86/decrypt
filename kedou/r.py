@@ -64,3 +64,7 @@ if __name__ == "__main__":
         url, json=encrypted_result, headers={"X-Forwarded-For": random_ip}
     )
     print(res.json())
+#Twitter、YouTube、哔哩哔哩、西瓜视频、好看视频、微博、搜狐视频、
+# 今日头条、网易新闻、Instagram、VK、Vimeo、Weverse、AcFun、
+# 抖音、快手、微视、斗鱼、知乎、咪咕视频、皮皮搞笑、虎牙、YY直播、小红书、
+# 花椒直播、Dzen、Reddit、Melon、IMDb、Afreecatv、茶杯狐、樱花动漫

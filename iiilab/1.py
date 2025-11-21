@@ -24,3 +24,5 @@ if __name__ == "__main__":
         "G-Timestamp":g_timestamp
     })
     print(res.json())
+#//微视、微博、秒拍、绿洲、YouTube、Twitter、Instagram、Facebook、最右、
+# 全民K歌、全民小视频、陌陌、美拍、Vimeo、Tumblr、云音乐、趣头条、映客、小影、梨视频、兽音译者
